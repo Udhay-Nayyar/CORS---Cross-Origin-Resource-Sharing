@@ -1,0 +1,32 @@
+### STS / Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Maven ###
+target/
+
+### Logs ###
+*.log
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Java ###
+*.class
+
+### Temporary Files ###
+*.tmp
+*.swp
