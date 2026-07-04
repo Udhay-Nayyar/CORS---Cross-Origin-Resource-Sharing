@@ -19,7 +19,7 @@ public class Controller {
 	private final StudentServiceImp studentServiceImp;
 
 	
-	@CrossOrigin( origins  = "http://localhost:9090")	
+//	@CrossOrigin( origins  = "http://localhost:9090")	
 	@GetMapping("/students")
 	public List<Student> getStudents(){
 		return studentServiceImp.getStudents();
